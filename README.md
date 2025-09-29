@@ -1,4 +1,5 @@
-# 🔐 JWT User Management System
+# 🔐springboot-role-based-auth
+
 
 [![Java](https://img.shields.io/badge/Java-24-orange)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-brightgreen)](https://spring.io/projects/spring-boot)
